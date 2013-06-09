@@ -1,0 +1,2 @@
+require version-bootloader=R530UVXBMB1
+
